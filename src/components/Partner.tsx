@@ -52,6 +52,19 @@ export function Partner() {
             </div>
           </div>
 
+
+
+          <div className="embla__slide flex items-center justify-center">
+            <div className="   h-40 w-full max-w-xs relative">
+              <Image
+                fill
+                src="/Sle.jpg"
+                alt="Partner logo"
+                className="object-contain"
+              />
+            </div>
+          </div>
+
           {/* end */}
         </div>
       </div>
